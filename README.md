@@ -50,10 +50,6 @@ Built for developers, legal teams, and compliance officers, this API leverages s
 
 This repo serves as the definitive guide for organizations seeking to build **robust, intelligent, and legally compliant copyright protection systems** leveraging the latest advancements in AI, blockchain, and big data analytics.
 
----
-
-For detailed usage instructions, integration examples, and API reference, please see the [docs folder](./docs).
-
 
 
 
